@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../index.hml"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.hml"
+	}
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Professional Programmer</title>
+</head>
+<body style="text-align:center; font-family: Arial, sans-serif; padding: 20px;">
+
+  <!-- العنوان والنصوص -->
+  <h1>Professional Web Programmer</h1>
+  <p>I design efficient and responsive websites with clean, modern code.</p>
+  <p>I deliver high quality results that impress clients and employers.</p>
+  <p>My experience in HTML, CSS, and JavaScript guarantees professional work.</p>
+
+  <!-- الصورة الاحترافية -->
+  <img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Coding and Programming" width="600">
+
+</body>
+</html>
